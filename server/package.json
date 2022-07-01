@@ -1,0 +1,12 @@
+{
+  "name": "radis server",
+  "version": "1.0.0",
+  "description": "the server of my own radio station",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "keywords": ["communication", "streams", "audio", "transmission", "radio"],
+  "author": "Nathan Cotrim",
+  "license": "ISC"
+}
